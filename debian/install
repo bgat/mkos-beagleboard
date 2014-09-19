@@ -1,3 +1,2 @@
 mkos-beagleboard usr/bin
 default.mstrap preferences usr/share/mkos-beagleboard
-README-mkcard.sh usr/share/mkos-beagleboard
